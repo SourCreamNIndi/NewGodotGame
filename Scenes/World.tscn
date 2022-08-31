@@ -236,9 +236,6 @@ shape = SubResource( 1 )
 [node name="swinnging trap" parent="StaticBody2D/CollisionShape2D" instance=ExtResource( 4 )]
 position = Vector2( 111.24, -151.151 )
 
-[node name="swinnging trap" parent="StaticBody2D/CollisionShape2D/swinnging trap" instance=ExtResource( 4 )]
-position = Vector2( -103.999, 0.519241 )
-
 [node name="swinnging trap2" parent="StaticBody2D/CollisionShape2D" instance=ExtResource( 4 )]
 position = Vector2( -577.466, -292.121 )
 
