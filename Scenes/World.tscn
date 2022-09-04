@@ -416,8 +416,12 @@ position = Vector2( 89.7093, -58.4486 )
 [node name="Spinning Blade" parent="." instance=ExtResource( 7 )]
 position = Vector2( 354.693, 338.233 )
 
+[node name="Path2D" parent="Spinning Blade" index="1"]
+position = Vector2( -0.00161564, 3.16501e-05 )
+scale = Vector2( 0.998122, 1.00005 )
+
 [node name="PathFollow2D" parent="Spinning Blade/Path2D" index="0"]
-rotation = 1.60282
+position = Vector2( 0.00161743, -6.10352e-05 )
 
 [node name="TileMap" type="TileMap" parent="."]
 tile_set = SubResource( 23 )
