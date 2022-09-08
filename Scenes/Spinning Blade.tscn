@@ -1,11 +1,7 @@
 [gd_scene load_steps=7 format=2]
 
 [ext_resource path="res://Sprites/On (38x38).png" type="Texture" id=1]
-<<<<<<< HEAD
-[ext_resource path="res://Spinning Blade.gd" type="Script" id=2]
-=======
 [ext_resource path="res://Scenes/SpinningBlade.gd" type="Script" id=2]
->>>>>>> eb849a171d4a030b1a613ecec960505d92fdf602
 
 [sub_resource type="Animation" id=3]
 length = 0.001
@@ -41,11 +37,7 @@ tracks/0/keys = {
 
 [sub_resource type="Curve2D" id=1]
 _data = {
-<<<<<<< HEAD
-"points": PoolVector2Array( 0, 0, 0, 0, 3.05176e-05, 3.05176e-05, 0, 0, 0, 0, 141.003, 0.296051, 0, 0, 0, 0, 141.148, 29.2957, 0, 0, 0, 0, 0.144806, 28.9997, 0, 0, 0, 0, 3.05176e-05, 3.05176e-05 )
-=======
 "points": PoolVector2Array( 0, 0, 0, 0, 139.998, -0.698975, 0, 0, 0, 0, 140.143, 28.3007, 0, 0, 0, 0, -0.860199, 28.0046, 0, 0, 0, 0, 139.998, -0.698975 )
->>>>>>> eb849a171d4a030b1a613ecec960505d92fdf602
 }
 
 [sub_resource type="CircleShape2D" id=2]
@@ -63,12 +55,6 @@ anims/Spin = SubResource( 4 )
 curve = SubResource( 1 )
 
 [node name="PathFollow2D" type="PathFollow2D" parent="Path2D"]
-<<<<<<< HEAD
-position = Vector2( 3.05176e-05, 3.05176e-05 )
-rotation = 0.00209938
-rotate = false
-=======
->>>>>>> eb849a171d4a030b1a613ecec960505d92fdf602
 
 [node name="Sprite" type="Sprite" parent="Path2D/PathFollow2D"]
 texture = ExtResource( 1 )
@@ -78,8 +64,3 @@ hframes = 8
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Path2D/PathFollow2D/Sprite/Area2D"]
 shape = SubResource( 2 )
-<<<<<<< HEAD
-
-[connection signal="body_entered" from="Path2D/PathFollow2D/Sprite/Area2D" to="." method="_on_Area2D_body_entered"]
-=======
->>>>>>> eb849a171d4a030b1a613ecec960505d92fdf602
