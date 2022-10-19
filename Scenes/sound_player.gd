@@ -2,7 +2,9 @@ extends Node
 
 onready var music = AudioStreamPlayer.new()
 
-var music_tracks = {}
+var music_tracks = {
+	"main":"res://other assets/sound.wav"
+}
 
 var sound_effects = {}
 
