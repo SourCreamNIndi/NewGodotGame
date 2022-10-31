@@ -316,25 +316,25 @@ position = Vector2( 3172.09, 410.168 )
 rotation = -3.13261
 
 [node name="SpikeTrap" parent="Player/SpikeTrap22" instance=ExtResource( 5 )]
-position = Vector2( 2432.18, -3.99442 )
+position = Vector2( 2432.15, -5.9942 )
 
 [node name="SpikeTrap2" parent="Player/SpikeTrap22" instance=ExtResource( 5 )]
-position = Vector2( 2452.18, -4.27396 )
+position = Vector2( 2452.15, -6.27374 )
 
 [node name="SpikeTrap3" parent="Player/SpikeTrap22" instance=ExtResource( 5 )]
-position = Vector2( 2472.19, -3.55359 )
+position = Vector2( 2472.16, -5.55338 )
 
 [node name="SpikeTrap4" parent="Player/SpikeTrap22" instance=ExtResource( 5 )]
-position = Vector2( 2492.19, -3.83313 )
+position = Vector2( 2492.16, -5.83292 )
 
 [node name="SpikeTrap5" parent="Player/SpikeTrap22" instance=ExtResource( 5 )]
-position = Vector2( 2512.19, -4.11267 )
+position = Vector2( 2512.16, -6.11246 )
 
 [node name="SpikeTrap6" parent="Player/SpikeTrap22" instance=ExtResource( 5 )]
-position = Vector2( 2532.19, -4.39218 )
+position = Vector2( 2532.16, -6.39197 )
 
 [node name="SpikeTrap7" parent="Player/SpikeTrap22" instance=ExtResource( 5 )]
-position = Vector2( 2551.18, -4.65775 )
+position = Vector2( 2551.16, -6.65753 )
 
 [node name="SpikeTrap9" parent="Player/SpikeTrap22" instance=ExtResource( 5 )]
 position = Vector2( 1804.42, 17.7817 )
@@ -365,75 +365,33 @@ position = Vector2( 172.984, -145.432 )
 [node name="SpikeTrap16" parent="Player/SpikeTrap22" instance=ExtResource( 5 )]
 position = Vector2( 191.982, -145.697 )
 
-[node name="SpikeTrap17" parent="Player/SpikeTrap22" instance=ExtResource( 5 )]
-position = Vector2( 46.1394, 367.391 )
-
-[node name="SpikeTrap18" parent="Player/SpikeTrap22" instance=ExtResource( 5 )]
-position = Vector2( 66.1375, 367.111 )
-
-[node name="SpikeTrap19" parent="Player/SpikeTrap22" instance=ExtResource( 5 )]
-position = Vector2( 86.1355, 366.832 )
-
-[node name="SpikeTrap20" parent="Player/SpikeTrap22" instance=ExtResource( 5 )]
-position = Vector2( 106.134, 366.552 )
-
-[node name="SpikeTrap21" parent="Player/SpikeTrap22" instance=ExtResource( 5 )]
-position = Vector2( 126.132, 366.273 )
-
-[node name="SpikeTrap22" parent="Player/SpikeTrap22" instance=ExtResource( 5 )]
-position = Vector2( 146.13, 365.993 )
-
-[node name="SpikeTrap23" parent="Player/SpikeTrap22" instance=ExtResource( 5 )]
-position = Vector2( 165.128, 365.728 )
-
-[node name="SpikeTrap24" parent="Player/SpikeTrap22" instance=ExtResource( 5 )]
-position = Vector2( -126.857, 368.809 )
-
-[node name="SpikeTrap25" parent="Player/SpikeTrap22" instance=ExtResource( 5 )]
-position = Vector2( -106.859, 368.53 )
-
-[node name="SpikeTrap26" parent="Player/SpikeTrap22" instance=ExtResource( 5 )]
-position = Vector2( -86.8613, 368.25 )
-
-[node name="SpikeTrap27" parent="Player/SpikeTrap22" instance=ExtResource( 5 )]
-position = Vector2( -66.8633, 367.97 )
-
-[node name="SpikeTrap28" parent="Player/SpikeTrap22" instance=ExtResource( 5 )]
-position = Vector2( -46.8652, 367.691 )
-
-[node name="SpikeTrap29" parent="Player/SpikeTrap22" instance=ExtResource( 5 )]
-position = Vector2( -26.8672, 367.411 )
-
-[node name="SpikeTrap30" parent="Player/SpikeTrap22" instance=ExtResource( 5 )]
-position = Vector2( -7.8689, 367.146 )
-
 [node name="SpikeTrap23" parent="Player" instance=ExtResource( 5 )]
 position = Vector2( 3157.09, 410.243 )
 rotation = -3.13261
 
 [node name="SpikeTrap" parent="Player/SpikeTrap23" instance=ExtResource( 5 )]
-position = Vector2( 2571.18, -4.93729 )
+position = Vector2( 2571.15, -6.93707 )
 
 [node name="SpikeTrap2" parent="Player/SpikeTrap23" instance=ExtResource( 5 )]
-position = Vector2( 2591.18, -5.2168 )
+position = Vector2( 2591.15, -7.21658 )
 
 [node name="SpikeTrap3" parent="Player/SpikeTrap23" instance=ExtResource( 5 )]
-position = Vector2( 2611.18, -5.49634 )
+position = Vector2( 2611.15, -7.49612 )
 
 [node name="SpikeTrap4" parent="Player/SpikeTrap23" instance=ExtResource( 5 )]
-position = Vector2( 2631.18, -5.77588 )
+position = Vector2( 2631.15, -7.77567 )
 
 [node name="SpikeTrap5" parent="Player/SpikeTrap23" instance=ExtResource( 5 )]
-position = Vector2( 2651.17, -6.05542 )
+position = Vector2( 2651.15, -8.05521 )
 
 [node name="SpikeTrap6" parent="Player/SpikeTrap23" instance=ExtResource( 5 )]
-position = Vector2( 2671.17, -6.33496 )
+position = Vector2( 2671.14, -8.33475 )
 
 [node name="SpikeTrap7" parent="Player/SpikeTrap23" instance=ExtResource( 5 )]
-position = Vector2( 2691.17, -6.6145 )
+position = Vector2( 2691.14, -8.61429 )
 
 [node name="SpikeTrap9" parent="Player/SpikeTrap23" instance=ExtResource( 5 )]
-position = Vector2( 1645.5, -47.0034 )
+position = Vector2( 1627.12, -2.74213 )
 rotation = -1.56786
 
 [node name="SpikeTrap10" parent="Player/SpikeTrap23" instance=ExtResource( 5 )]
@@ -491,48 +449,27 @@ position = Vector2( 311.97, -147.375 )
 [node name="SpikeTrap23" parent="Player/SpikeTrap23" instance=ExtResource( 5 )]
 position = Vector2( 331.968, -147.654 )
 
-[node name="SpikeTrap24" parent="Player/SpikeTrap23" instance=ExtResource( 5 )]
-position = Vector2( 185.125, 365.448 )
-
-[node name="SpikeTrap25" parent="Player/SpikeTrap23" instance=ExtResource( 5 )]
-position = Vector2( 205.123, 365.169 )
-
-[node name="SpikeTrap26" parent="Player/SpikeTrap23" instance=ExtResource( 5 )]
-position = Vector2( 225.121, 364.889 )
-
-[node name="SpikeTrap27" parent="Player/SpikeTrap23" instance=ExtResource( 5 )]
-position = Vector2( 245.119, 364.61 )
-
-[node name="SpikeTrap28" parent="Player/SpikeTrap23" instance=ExtResource( 5 )]
-position = Vector2( 265.132, 365.33 )
-
-[node name="SpikeTrap29" parent="Player/SpikeTrap23" instance=ExtResource( 5 )]
-position = Vector2( 285.13, 365.05 )
-
-[node name="SpikeTrap30" parent="Player/SpikeTrap23" instance=ExtResource( 5 )]
-position = Vector2( 305.128, 364.771 )
-
 [node name="SpikeTrap24" parent="Player" instance=ExtResource( 5 )]
 position = Vector2( 3188.17, 426.088 )
 rotation = -3.13261
 
 [node name="SpikeTrap" parent="Player/SpikeTrap24" instance=ExtResource( 5 )]
-position = Vector2( 2329.4, 12.4437 )
+position = Vector2( 2329.37, 10.4439 )
 
 [node name="SpikeTrap2" parent="Player/SpikeTrap24" instance=ExtResource( 5 )]
-position = Vector2( 2349.4, 12.1642 )
+position = Vector2( 2349.37, 10.1644 )
 
 [node name="SpikeTrap3" parent="Player/SpikeTrap24" instance=ExtResource( 5 )]
-position = Vector2( 2369.4, 11.8846 )
+position = Vector2( 2369.37, 9.88486 )
 
 [node name="SpikeTrap4" parent="Player/SpikeTrap24" instance=ExtResource( 5 )]
-position = Vector2( 2389.4, 11.6051 )
+position = Vector2( 2389.37, 9.60532 )
 
 [node name="SpikeTrap5" parent="Player/SpikeTrap24" instance=ExtResource( 5 )]
-position = Vector2( 2409.39, 11.3256 )
+position = Vector2( 2409.37, 9.32578 )
 
 [node name="SpikeTrap6" parent="Player/SpikeTrap24" instance=ExtResource( 5 )]
-position = Vector2( 2429.39, 11.046 )
+position = Vector2( 2429.36, 9.04623 )
 
 [node name="SpikeTrap7" parent="Player/SpikeTrap24" instance=ExtResource( 5 )]
 position = Vector2( 1868.83, -97.1297 )
@@ -572,24 +509,12 @@ position = Vector2( 53.1919, -129.756 )
 [node name="SpikeTrap15" parent="Player/SpikeTrap24" instance=ExtResource( 5 )]
 position = Vector2( 70.1902, -129.994 )
 
-[node name="SpikeTrap16" parent="Player/SpikeTrap24" instance=ExtResource( 5 )]
-position = Vector2( 26.3516, 382.669 )
-
-[node name="SpikeTrap17" parent="Player/SpikeTrap24" instance=ExtResource( 5 )]
-position = Vector2( 43.3499, 382.431 )
-
-[node name="SpikeTrap18" parent="Player/SpikeTrap24" instance=ExtResource( 5 )]
-position = Vector2( -146.645, 384.087 )
-
-[node name="SpikeTrap19" parent="Player/SpikeTrap24" instance=ExtResource( 5 )]
-position = Vector2( -129.647, 383.85 )
-
 [node name="SpikeTrap25" parent="Player" instance=ExtResource( 5 )]
 position = Vector2( 3187.49, 490.092 )
 rotation = -3.13261
 
 [node name="SpikeTrap" parent="Player/SpikeTrap25" instance=ExtResource( 5 )]
-position = Vector2( 2269.3, 77.29 )
+position = Vector2( 2269.27, 75.2903 )
 
 [node name="SpikeTrap" parent="Player/SpikeTrap25/SpikeTrap" instance=ExtResource( 5 )]
 position = Vector2( -20.0123, -0.720367 )
@@ -598,7 +523,7 @@ position = Vector2( -20.0123, -0.720367 )
 position = Vector2( -19.998, 0.279541 )
 
 [node name="SpikeTrap" parent="Player/SpikeTrap25/SpikeTrap/SpikeTrap/SpikeTrap" instance=ExtResource( 5 )]
-position = Vector2( -20.0121, -0.720398 )
+position = Vector2( -20.0121, -0.720367 )
 
 [node name="SpikeTrap2" parent="Player/SpikeTrap25/SpikeTrap/SpikeTrap" instance=ExtResource( 5 )]
 position = Vector2( -60.0082, -0.161316 )
@@ -613,19 +538,19 @@ position = Vector2( -19.998, 0.279572 )
 position = Vector2( -19.998, 0.27951 )
 
 [node name="SpikeTrap2" parent="Player/SpikeTrap25" instance=ExtResource( 5 )]
-position = Vector2( 2289.3, 77.0105 )
+position = Vector2( 2289.27, 75.0107 )
 
 [node name="SpikeTrap3" parent="Player/SpikeTrap25" instance=ExtResource( 5 )]
-position = Vector2( 2309.3, 76.731 )
+position = Vector2( 2309.27, 74.7312 )
 
 [node name="SpikeTrap4" parent="Player/SpikeTrap25" instance=ExtResource( 5 )]
-position = Vector2( 2740.28, 72.7068 )
+position = Vector2( 2740.26, 70.707 )
 
 [node name="SpikeTrap5" parent="Player/SpikeTrap25" instance=ExtResource( 5 )]
-position = Vector2( 2584.3, 74.8872 )
+position = Vector2( 2584.27, 72.8874 )
 
 [node name="SpikeTrap6" parent="Player/SpikeTrap25" instance=ExtResource( 5 )]
-position = Vector2( 2757.28, 72.4692 )
+position = Vector2( 2757.25, 70.4694 )
 
 [node name="SpikeTrap7" parent="Player/SpikeTrap25" instance=ExtResource( 5 )]
 position = Vector2( 1793.32, -61.0708 )
@@ -660,21 +585,12 @@ position = Vector2( 225.097, -66.1526 )
 [node name="SpikeTrap16" parent="Player/SpikeTrap25" instance=ExtResource( 5 )]
 position = Vector2( 398.08, -68.5706 )
 
-[node name="SpikeTrap17" parent="Player/SpikeTrap25" instance=ExtResource( 5 )]
-position = Vector2( 354.241, 444.092 )
-
-[node name="SpikeTrap18" parent="Player/SpikeTrap25" instance=ExtResource( 5 )]
-position = Vector2( 198.242, 445.273 )
-
-[node name="SpikeTrap19" parent="Player/SpikeTrap25" instance=ExtResource( 5 )]
-position = Vector2( 371.24, 443.855 )
-
 [node name="SpikeTrap26" parent="Player" instance=ExtResource( 5 )]
 position = Vector2( 2931.05, 202.369 )
 rotation = -3.13261
 
 [node name="SpikeTrap" parent="Player/SpikeTrap26" instance=ExtResource( 5 )]
-position = Vector2( 2684.16, -150.531 )
+position = Vector2( 2684.33, -138.532 )
 
 [node name="SpikeTrap2" parent="Player/SpikeTrap26" instance=ExtResource( 5 )]
 position = Vector2( 2780.09, -155.872 )
